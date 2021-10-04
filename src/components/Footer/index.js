@@ -1,7 +1,9 @@
 import React from 'react'
 import useStyles from './style'
 import data from './data.json'
-import { createMuiTheme, Grid, Hidden, MuiThemeProvider } from '@material-ui/core'
+import { createMuiTheme, Grid, Hidden, MuiThemeProvider } from '@material-ui/core';
+import WebLogo from "../../assets/img/web-logo.png";
+
 export default function Footer() {
     const classes = useStyles()
     const dataCompany = data
@@ -23,7 +25,8 @@ export default function Footer() {
                     <Grid container justify='space-between' className={classes.footer__up}  >
                         <Grid item xs={12} md={4} className={classes.footer__tix}>
                             <Hidden mdDown>
-                                <p>TIX</p>
+                                <img src={WebLogo} alt=""/>
+                                <p style={{marginTop: "15px"}}>TIX</p>
                             </Hidden>
 
                             <Grid container justify='space-between' alignItems='center' >

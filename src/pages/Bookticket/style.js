@@ -86,7 +86,7 @@ const useStyle = makeStyles({
     mainOfBill: {
         position: 'relative',
         width: '100%',
-        height: '130vh',
+        height: '106vh',
         paddingLeft: '15px',
         paddingRight: '15px',
         boxShadow: ' 0 0 15px rgb(0 0 0 / 30%)',

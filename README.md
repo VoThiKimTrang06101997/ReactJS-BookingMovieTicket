@@ -1,17 +1,18 @@
 ** Technology: HTML, SCSS, ReactJS, Axios, Bootstrap, Redux, Redux Thunk, MaterialUI,...
 
-**** Function:
-++ Admin: Responsible for adding new movies and shows, canceling any movie or show, blocking/unblocking customers, etc.
-++ Customer: Can view movie schedules, book, and cancel tickets.
-++ Guest: All guests can search movies but to book seats they have to become a registered member.
-++ System: Mainly responsible for sending notifications for new movies, bookings, cancellations, etc.
+<space>**** Function:<space>
+1. Admin: Responsible for adding new movies and shows, canceling any movie or show, blocking/unblocking customers, etc.
+2. Customer: Can view movie schedules, book, and cancel tickets.
+3. Guest: All guests can search movies but to book seats they have to become a registered member.
+3. System: Mainly responsible for sending notifications for new movies, bookings, cancellations, etc.
 
-**** Here are the top use cases of the Movie Ticket Booking System:
 
-++ Search movies: To search movies by title, genre, language, release date, and city name.
-++ Create/Modify/View booking: To book a movie show ticket, cancel it or view details about the show.
-++ Make payment for booking: To pay for the booking.
-++ Assign Seat: Customers will be shown a seat map to let them select seats for their booking.
+<space>**** Here are the top use cases of the Movie Ticket Booking System:<space>
+
+1. Search movies: To search movies by title, genre, language, release date, and city name.
+2. Create/Modify/View booking: To book a movie show ticket, cancel it or view details about the show.
+3. Make payment for booking: To pay for the booking.
+4. Assign Seat: Customers will be shown a seat map to let them select seats for their booking.
 
 ** Test Account:
   + Username: masu123
@@ -44,6 +45,11 @@
 ![admin-user_management](https://user-images.githubusercontent.com/84017841/217037961-d3e244d5-1848-4ea7-9429-24523d08fd04.png)
 => Admin Page - User Management (for Admin Account).
 
+![login](https://user-images.githubusercontent.com/84017841/217041476-903a47eb-b719-4dec-99e5-38776c45b736.png)
+=> Login.
+
+![register](https://user-images.githubusercontent.com/84017841/217041493-dd80ed73-4139-4c40-9e1b-ffac25a5b6d1.png)
+=> Register.
 
 
 

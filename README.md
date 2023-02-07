@@ -1,9 +1,3 @@
-![dang-ky](https://user-images.githubusercontent.com/84017841/217229955-2c6a8543-e2c8-43c1-9c10-ef33c40f7404.png)
-![dang-nhap](https://user-images.githubusercontent.com/84017841/217229963-e33f0255-e416-4221-9273-14aa101cff99.png)
-![trang chu](https://user-images.githubusercontent.com/84017841/217229971-fd367fba-d62c-4a3c-86f3-a5ceeca150ec.png)
-![trang chu-footer](https://user-images.githubusercontent.com/84017841/217229978-c5401ad6-1930-46aa-903c-0a723bb0f30a.png)
-![trang chu-news](https://user-images.githubusercontent.com/84017841/217229989-e75d5175-2195-401e-8e96-a40d524c9b0e.png)
-![dang-ky](https://user-images.githubusercontent.com/84017841/217230124-1ebf41f2-39a9-48a1-bb3c-ba8f73d1139b.png)
 ** Technology: HTML, SCSS, ReactJS, Axios, Bootstrap, Redux, Redux Thunk, MaterialUI,...
 
 <space>**** Function:<space>

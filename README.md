@@ -1,3 +1,9 @@
+![dang-ky](https://user-images.githubusercontent.com/84017841/217229955-2c6a8543-e2c8-43c1-9c10-ef33c40f7404.png)
+![dang-nhap](https://user-images.githubusercontent.com/84017841/217229963-e33f0255-e416-4221-9273-14aa101cff99.png)
+![trang chu](https://user-images.githubusercontent.com/84017841/217229971-fd367fba-d62c-4a3c-86f3-a5ceeca150ec.png)
+![trang chu-footer](https://user-images.githubusercontent.com/84017841/217229978-c5401ad6-1930-46aa-903c-0a723bb0f30a.png)
+![trang chu-news](https://user-images.githubusercontent.com/84017841/217229989-e75d5175-2195-401e-8e96-a40d524c9b0e.png)
+![dang-ky](https://user-images.githubusercontent.com/84017841/217230124-1ebf41f2-39a9-48a1-bb3c-ba8f73d1139b.png)
 ** Technology: HTML, SCSS, ReactJS, Axios, Bootstrap, Redux, Redux Thunk, MaterialUI,...
 
 <space>**** Function:<space>
@@ -18,7 +24,7 @@
   + Username: masu123
   + Password: 123456
 
-![trangchu](https://user-images.githubusercontent.com/84017841/217037331-d9b33568-d7a4-4faf-bbb1-14b4f022e28c.jpg)
+![trang chu](https://user-images.githubusercontent.com/84017841/217230212-4afded11-2df2-4dc0-96db-ef8a1b69d303.png)
 => Home Page (for User Account).
 
 ![trangchu-phim](https://user-images.githubusercontent.com/84017841/217037340-17631bb2-974b-4580-8521-7b39b4e35090.png)
@@ -26,6 +32,12 @@
 
 ![trangchu-suatchieu](https://user-images.githubusercontent.com/84017841/217037347-3c0457ec-ca8b-4d0a-abaa-c65b1a1476f9.png)
 => Home Page - Movie Schedule (for User Account).
+
+![trang chu-news](https://user-images.githubusercontent.com/84017841/217230236-822e0c66-1c0c-479a-a058-4f8fd6faa6b5.png)
+=> Home Page - News (for User Account).
+
+![trang chu-footer](https://user-images.githubusercontent.com/84017841/217230225-31780ea5-2beb-4e16-943a-c7c9e408a7d6.png)
+=> Home Page - Footer (for User Account).
 
 ![book_movie](https://user-images.githubusercontent.com/84017841/217037971-f3e66f36-b763-4da7-be56-8fd3b01be5d9.png)
 => Home Page - Book Movie (for User Account).
@@ -45,11 +57,17 @@
 ![admin-user_management](https://user-images.githubusercontent.com/84017841/217037961-d3e244d5-1848-4ea7-9429-24523d08fd04.png)
 => Admin Page - User Management (for Admin Account).
 
-![login](https://user-images.githubusercontent.com/84017841/217041476-903a47eb-b719-4dec-99e5-38776c45b736.png)
+![dang-nhap](https://user-images.githubusercontent.com/84017841/217230157-f730ac5e-72a4-4392-b86c-da06f37499db.png)
 => Login.
 
-![register](https://user-images.githubusercontent.com/84017841/217041493-dd80ed73-4139-4c40-9e1b-ffac25a5b6d1.png)
+![dang-ky](https://user-images.githubusercontent.com/84017841/217230749-7b12a371-f339-4cdc-a220-03d2c51acf85.png)
 => Register.
+
+
+
+
+
+
 
 
 
